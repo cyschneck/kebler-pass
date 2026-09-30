@@ -1,0 +1,12 @@
+name: kebler-pass
+channels:
+  - conda-forge
+dependencies:
+  - earthengine-api
+  - jupyter-book
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - pip:
+      - jupyterlab-myst
